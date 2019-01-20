@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{95F3ABF9-746D-C577-BB5F-CDCBD7188B35}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GamePlay.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SceneLoader.cs" Line="18" Column="1" />
+      <File FileName="Assets/Scripts/GamePlay.cs" Line="17" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
